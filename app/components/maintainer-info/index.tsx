@@ -96,7 +96,7 @@ const MaintainerInfo: FC<MaintainerInfoProps> = ({ triggerClassName }) => {
             Version 0.2.0 • Last updated: March 2025
             <br />
             <Link
-              href="https://github.com/TraFost/ba-tools"
+              href="--"
               className="text-secondary-foreground hover:underline"
               target="_blank"
             >
