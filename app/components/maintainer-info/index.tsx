@@ -17,28 +17,6 @@ interface MaintainerInfoProps {
 }
 
 const authors = [
-  {
-    name: "Galih Aditya",
-    role: "Author",
-    image: "/mikaxd.jpg",
-    social: {
-      instagram: "https://www.instagram.com/yagalihadit/",
-      linkedin: "https://www.linkedin.com/in/galih-aditya-8914a6216/",
-      github: "https://github.com/samsulpanjul",
-      email: "mailto:galih.aditya227@gmail.com",
-    },
-  },
-  {
-    name: "Rahman Nurudin",
-    role: "Core Maintainer",
-    image: "/icon.png",
-    social: {
-      instagram: "https://www.instagram.com/rahmannrdn/",
-      linkedin: "https://www.linkedin.com/in/rahmannrdn/",
-      github: "https://github.com/TraFost",
-      email: "mailto:rahmannurudin29@gmail.com",
-    },
-  },
 ];
 
 const MaintainerInfo: FC<MaintainerInfoProps> = ({ triggerClassName }) => {
