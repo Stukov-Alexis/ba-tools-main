@@ -86,7 +86,7 @@ const MusicPage = async () => {
                     src={
                       album.image
                         ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/music-files/${album.image}`
-                        : "/BG_CS_Arona_04.jpg"
+                        : "/icon.jpg"
                     }
                     alt={album.title}
                     width={720}
