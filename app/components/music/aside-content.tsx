@@ -85,7 +85,7 @@ const AsideContent: FC<Props> = (props) => {
                 <Image
                   src={
                     album.image
-                      ? `https://jyxwxdxjdshypymisxeo.supabase.co/storage/v1/object/public/music/images/${album.image}`
+                      ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/icon/${album.image}`
                       : "/icon.png"
                   }
                   width={32}
