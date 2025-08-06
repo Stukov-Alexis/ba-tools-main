@@ -39,7 +39,7 @@ const CarouselMusic: FC<Props> = (props) => {
                     tracks={album.tracks}
                     src={
                       album.image
-                        ? `https://jyxwxdxjdshypymisxeo.supabase.co/storage/v1/object/public/music/images/${album.image}`
+                        ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/icon/${album.image}`
                         : "/icon.png"
                     }
                     alt={album.title}
