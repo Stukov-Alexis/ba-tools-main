@@ -74,7 +74,7 @@ const AudioPlayer = () => {
             <Image
               src={
                 currentTrack.image
-                  ? `https://jyxwxdxjdshypymisxeo.supabase.co/storage/v1/object/public/music/images/${currentTrack.image}`
+                  ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/icon/${currentTrack.image}`
                   : "/icon.png"
               }
               alt="alt"
@@ -139,7 +139,7 @@ const AudioPlayer = () => {
                 <Image
                   src={
                     currentTrack.image
-                      ? `https://jyxwxdxjdshypymisxeo.supabase.co/storage/v1/object/public/music/images/${currentTrack.image}`
+                      ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/icon/${currentTrack.image}`
                       : "/icon.png"
                   }
                   alt="alt"
