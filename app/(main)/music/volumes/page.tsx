@@ -22,7 +22,7 @@ const VolumesPage = async () => {
               tracks={album.tracks}
               src={
                 album.image
-                  ? `https://jyxwxdxjdshypymisxeo.supabase.co/storage/v1/object/public/music/images/${album.image}`
+                  ? `https://supabase.com/dashboard/project/maraxktbvnihgopdjmnx/storage/buckets/icon/${album.image}`
                   : "/icon.png"
               }
               alt={album.title}
