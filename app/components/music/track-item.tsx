@@ -83,7 +83,7 @@ const TrackItem = ({ music, index, musicList }: Props) => {
             <Image
               src={
                 music.image
-                  ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/icon//${music.image}`
+                  ? `https://maraxktbvnihgopdjmnx.supabase.co/storage/v1/object/public/icon/${music.image}`
                   : "/icon.png"
               }
               width={128}
