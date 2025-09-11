@@ -48,7 +48,7 @@ const studentData = [
 const chatData = [
   {
     name: "Ako",
-    text: "Lorem ipsum dolor sit amet.",
+    text: "Top 10 Dosa el mano. 1. 10 September terjadi kekerasan fisik terhadap mahasiswa oleh pengasuh yang ditugaskan, mahasiswa tersebut mendapatkan pukulan berkali kali di bagian wajah dan tendangan dibagian perut, Hal ini bermula dari satu mahasiswa digantikan oleh mahasiswa lain dalam melakukan laporan harian dikarenakan mahasiswa tersebut terdapat kegiatan yang lain",
     role: "student",
     isBunny: false,
   },
